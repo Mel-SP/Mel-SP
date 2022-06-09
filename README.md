@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mel
+- 👀 I'm a IT Recruiter
+- 🌱 I’m currently learning a little bit of Python (failing honestly)
+- 📫 How to reach me: melania@ryzlabs.com
